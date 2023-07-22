@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\</FILEPATH>
+      <FILENAME>Players.h</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'Player::dx' değişkeni başlatılmamış. Her zaman bir üye değişkenini başlatın (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVTexture@sf@@H@Z</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Player::dx</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\</FILEPATH>
+      <FILENAME>Players.h</FILENAME>
+      <LINE>66</LINE>
+      <COLUMN>4</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>'Player::dy' değişkeni başlatılmamış. Her zaman bir üye değişkenini başlatın (type.6).</DESCRIPTION>
+    <FUNCTION>Player::{ctor}</FUNCTION>
+    <DECORATED>??0Player@@QAE@AAVTexture@sf@@H@Z</DECORATED>
+    <FUNCLINE>66</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Player::dy</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

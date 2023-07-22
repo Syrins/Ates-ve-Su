@@ -1,0 +1,232 @@
+﻿  main.cpp
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\DataRetrieval.h(127,31): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\DataRetrieval.h(231,31): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Visuals.h(501,61): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Visuals.h(501,39): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(639,28): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(639,50): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(668,28): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(668,50): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(697,28): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(697,50): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(727,28): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(727,50): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(754,33): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(765,25): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(782,24): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(782,46): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(815,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(815,49): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(838,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(838,49): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(862,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(875,24): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\LevelGeneration.h(875,46): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4244: 'başlatılıyor': '_Ty' - '_Ty1' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(51,6): message : derlenen şablon işlevi 'std::pair<int,int>::pair<float,float,0>(_Other1 &&,_Other2 &&) noexcept' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Other1=float,
+              _Other2=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\utility(247,54): warning C4244: 'başlatılıyor': '_Ty' - '_Ty2' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=float
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(386,34): warning C4244: '=': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(427,45): warning C4244: '=': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(427,89): warning C4244: '=': 'T' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              T=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(441,88): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(441,53): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(442,92): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(442,56): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(511,21): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(863,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(873,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(881,42): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(885,41): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(892,42): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(896,41): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(902,42): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(906,41): warning C4305: 'bağımsız değişken': 'double' iken 'T' olarak kesildi
+          with
+          [
+              T=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(935,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(65,45): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(65,42): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(82,43): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(82,40): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(83,45): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(83,42): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(84,44): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(84,41): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(339,75): warning C4018: '>=': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(339,181): warning C4018: '>=': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(795,63): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1134,96): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1134,61): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1135,100): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1135,64): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1204,96): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1204,61): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1205,100): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1205,64): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1240,22): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1380,33): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1428,33): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1534,92): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1534,57): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1535,96): warning C4244: 'bağımsız değişken': '_Ty2' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1535,60): warning C4244: 'bağımsız değişken': '_Ty1' - 'float' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty1=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Render.h(1611,23): warning C4018: '<': işaretli/işaretsiz uyuşmazlığı
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4244: 'başlatılıyor': '_Ty' - '_Ty1' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(505,17): message : derlenen şablon işlevi 'std::pair<float,float>::pair<int,float&,0>(_Other1 &&,_Other2) noexcept' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Other1=int,
+              _Other2=float &
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(505,16): message : 'fall' içinde ilk 'std::pair<float,float>::pair' başvurusuna bakın
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\utility(247,54): warning C4244: 'başlatılıyor': '_Ty' - '_Ty2' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=int
+          ]
+          and
+          [
+              _Ty2=float
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.36.32532\include\utility(247,16): warning C4244: 'başlatılıyor': '_Ty' - '_Ty1' dönüşümü; veri kaybı olabilir
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(591,47): message : derlenen şablon işlevi 'std::pair<float,float>::pair<double,int,0>(_Other1 &&,_Other2 &&) noexcept' örneği oluşturma başvurusuna bakın
+          with
+          [
+              _Other1=double,
+              _Other2=int
+          ]
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\GameControl.h(591,46): message : 'fireBoyMovingLeft' içinde ilk 'std::pair<float,float>::pair' başvurusuna bakın
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\External\include\sftools\Chronometer.hpp(172): warning C4715: 'sftools::Chronometer::getElapsedTime': tüm denetim yolları değer döndürmez
+  SFML_Project.vcxproj -> C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Debug\SFML_Project.exe
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Players.h(66): warning C26495: 'Player::dx' değişkeni başlatılmamış. Her zaman bir üye değişkenini başlatın (type.6).

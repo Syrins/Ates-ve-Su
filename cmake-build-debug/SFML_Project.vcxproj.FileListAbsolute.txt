@@ -1,0 +1,7 @@
+C:\Users\20112\Desktop\sp project\Fireboy-And-Watergirl\Debug\SFML_Project.exe
+C:\SFML\Projects\Fireboy-And-Watergirl\Debug\SFML_Project.exe
+C:\SFML\Fireboy-And-Watergirl\Debug\SFML_Project.exe
+C:\Users\heyth\Desktop\Fireboy-And-Watergirl\Debug\SFML_Project.exe
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Debug\SFML_Project.exe
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Debug\SFML_Project.exe.lastcodeanalysissucceeded
+C:\Users\Syrins\Desktop\Fireboy-And-Watergirl-master\Debug\NativeCodeAnalysis.read.1.tlog
