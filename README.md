@@ -12,7 +12,7 @@ Artık yan yana olmanıza gerek yok.
   Bu kısımdan kendi bölümlerinizi yapabilirsiniz
 ```
 
-| Parametre | Açıklama                |
+| Harita Tuşu | Açıklama                |
 | :-------- | :------------------------- |
 | `G`  |kapı düğmesi ekler |
 | `B`  |köprü düğmesi ekler |
