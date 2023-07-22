@@ -1,50 +1,28 @@
 
-# Ateş ve Su
+## API Kullanımı
 
-Ateş ve Su oyunu online oynayabilirsiniz. 
-Artık yan yana olmanıza gerek yok.
+#### Tüm öğeleri getir
 
-
-## Bölüm Editor
-
-#### LevelGeneration Açınız
-
-```text
-  Bu kısımdan kendi bölümlerinizi yapabilirsiniz
+```http
+  GET /api/items
 ```
 
-| HARİTA TUŞU | Açıklama                |
-| :-------- |  | :------------------------- |
-| `G`  |kapı düğmesi ekler |
-| `B`  |köprü düğmesi ekler |
-| `M`  |orta blok ekler |
-| `L`  |sol blok ekler |
-| `R`  |sağ blok ekler |
-| `W`  |küçük su ekler |
-| `F`  |küçük lav ekler |
-| `f`  |sol lav ekler |
-| `i`  |orta lav ekler |
-| `r`  |sağ lav ekler |
-| `w`  |sol su ekler|
-| `a`  |orta su ekler|
-| `t`  |Sağ su ekler|
+| Parametre | Tip     | Açıklama                |
+| :-------- | :------- | :------------------------- |
+| `api_key` | `string` | **Gerekli**. API anahtarınız. |
 
+#### Öğeyi getir
 
-
-#### Örnek
-
-```text
-  1. Level Tasarımı
+```http
+  GET /api/items/${id}
 ```
 
-                        "                ",
-                        "                ",
-                        "         LMMMMMM",
-                        "                ",
-                        "GR       LMMGMMM",
-                        "    LMBR        ",
-                        "           LBR  ",
-                        "    LfirR       ",
-                        "                ",
+| Parametre | Tip     | Açıklama                       |
+| :-------- | :------- | :-------------------------------- |
+| `id`      | `string` | **Gerekli**. Çağrılacak öğenin anahtar değeri |
 
-Bu şekilde sizde kendi bölümlerinizi yapabilirsiniz.
+#### add(num1, num2)
+
+İki sayı alır ve toplamı döndürür.
+
+  
